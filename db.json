@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "User 1",
+      "email": "user1@egmail.com",
+      "phone": "(+61) 42 228 0597",
+      "id": 1
+    },
+    {
+      "name": "Jonathan Herbert",
+      "email": "jonathan.herbert@accenture.com",
+      "phone": "(+66) 83 062 5916",
+      "id": 2
+    }
+  ]
+}
